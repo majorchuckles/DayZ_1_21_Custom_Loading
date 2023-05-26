@@ -1,12 +1,12 @@
 [
 	{
-		"m_Headline": "FUCK ALL THE WAY OFF DAYZ",
+		"m_Headline": "Custom Message 1",
 		"m_ImagePath": "",
 		"m_Description": "TESTING CUSTOM MESSAGES"
 	},
 	{
-		"m_Headline": "RAVEN IS A BITCH",
+		"m_Headline": "Custom Message 2",
 		"m_ImagePath": "",
-		"m_Description": "THATS RIGHT RAVEN! YOU'S A BITCH"
+		"m_Description": "Testing Custom Messages 2"
 	}
 ]
