@@ -10,15 +10,17 @@ All of this will go into the 3_Game directory.
 
 Our structure was:
 
-
-Mod
-
-->Scripts
--->3_Game
---->Custom_Loading_Screen.c
-
-->Layouts
--->loading_disable_hints.layout
-
-->Data
--->hints.json
+<br>
+Mod<br>
+<br>
+->Scripts<br>
+-->3_Game<br>
+--->Custom_Loading_Screen.c<br>
+<br>
+->Layouts<br>
+-->loading_disable_hints.layout<br>
+-->loading_queue_disable_hints.layout<br>
+-->timer_disable_hints.layout<br>
+<br>
+->Data<br>
+-->hints.json<br>
