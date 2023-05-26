@@ -22,3 +22,4 @@ Mod
 
 ->Data
 -->hints.json
+t
