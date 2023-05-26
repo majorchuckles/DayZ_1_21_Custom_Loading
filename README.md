@@ -7,3 +7,18 @@ Figured I would share with the community what I made work for our server. Not th
 You can repack into your server packs and get it rolling. Just make the appropiate changes and make sure to copy the folders.
 
 All of this will go into the 3_Game directory. 
+
+Our structure was:
+
+
+Mod
+
+->Scripts
+-->3_Game
+--->Custom_Loading_Screen.c
+
+->Layouts
+-->loading_disable_hints.layout
+
+->Data
+-->hints.json
